@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tushar-rr
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C language 
-- 💞️ I’m looking to collaborate on C Program 
+- 👀 interested in programming 
+- 🌱 currently learning C language 
+- 💞️ looking to collaborate on C Program 
 - 📫 Reach me using my Instagram URL https://www.instagram.com/rudedude2262/
 
 <!---
