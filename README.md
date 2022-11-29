@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tushar-rr
 - 👀 interested in programming 
-- 🌱 currently learning C language 
+- 🌱 currently learning DSA
 - 💞️ Not looking for collaboration 
 - 📫 Reach me using my Instagram URL https://www.instagram.com/tushxr.js/
 
